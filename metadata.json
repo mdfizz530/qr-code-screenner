@@ -1,0 +1,6 @@
+{
+  "name": "QR Code Scanner",
+  "description": "A feature-rich offline QR code scanner and generator with local scanning history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
